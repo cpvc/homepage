@@ -1,0 +1,52 @@
+ BODY {
+/*   background : #b7c7ff; */
+  color: #000000;
+  text-align: left;
+  font-family: georgia, times new roman, arial;
+  font-size: 10pt;
+  margin: 1em 1em 1em 1em;
+}
+
+A:link { color: 555555 }
+A:visited { color: 000000 }
+A:active { color: 000000 }
+A:hover { color: 000000 }
+
+html {
+   overflow-x: hidden;
+   overflow-y: auto;
+}
+
+P {
+  text-align: center;
+  font-family: georgia, times new roman, arial;
+}
+
+UL {
+  text-align: left;
+  font-family: georgia, times new roman, arial;
+}
+
+OL {
+  text-align: left;
+  font-family: georgia, times new roman, arial;
+}
+
+TD {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.biggerletters
+{
+font-size:200%;
+}
+
+.bigletters
+{
+font-size:300%;
+}
+
+.redlink {
+color: #FF0000;
+}
